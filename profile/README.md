@@ -12,3 +12,8 @@ To meet the requirements of your firm and your customers.
 expect more. soon.
 
 Nov 2026
+
+### Links
+
+- [Patmas Website](www.patmas.de)
+- [Patmas onboarding docs](https://github.com/patmas-de/welcome)
