@@ -5,6 +5,10 @@
 - fast
 - AI-native
 
-expect more. soon.
-Nov. 2026
+To meet the requirements of your firm and your customers.
 
+<br>
+
+expect more. soon.
+
+Nov 2026
