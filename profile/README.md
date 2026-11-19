@@ -15,5 +15,5 @@ Nov 2026
 
 ### Links
 
-- [Patmas Website](www.patmas.de)
+- [Patmas Website](https://patmas.de)
 - [Patmas onboarding docs](https://github.com/patmas-de/welcome)
